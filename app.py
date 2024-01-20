@@ -24,7 +24,7 @@ img_contact_form = Image.open("images/boo.png")
 img_lottie_animation = Image.open("images/Green Yellow Retro Aesthetic Business Paper Bag.png")
 # HEADER SECTION
 with st.container():
-    st.subheader("Hi, I am Akshat :waving_hand:")
+    st.subheader("Hi, I am Akshat :wave:")
     st.title("A Data Analyst From India")
     st.write("I am passionate about finding ways to use Python to be more efficient and effective in bussiness settings.")
     st.write("[Learn More >](https://github.com/SunShade123456)")
